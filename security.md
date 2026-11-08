@@ -151,6 +151,6 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Apex Legends · Updated 2026-11-07 · Shared under the MIT License*
+*Apex Legends · Updated 2026-11-08 · Shared under the MIT License*
 
-<!-- rev 2026-11-07 -->
+<!-- rev 2026-11-08 -->
